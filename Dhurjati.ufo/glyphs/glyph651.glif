@@ -333,31 +333,4 @@
       <point x="19" y="-397" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-599" width="33" />
-      <hstem pos="-566" width="15" />
-      <hstem pos="-530" width="32" />
-      <hstem pos="-447" width="12" />
-      <hstem pos="-426" width="16" />
-      <hstem pos="-397" width="31" />
-      <hstem pos="-328" width="22" />
-      <hstem pos="-266" width="31" />
-      <hstem pos="-197" width="12" />
-      <hstem pos="-159" width="30" />
-      <vstem pos="-70" width="89" />
-      <vstem pos="-44" width="85" />
-      <vstem pos="124" width="81" />
-      <vstem pos="287" width="86" />
-      <vstem pos="308" width="86" />
-      <vstem pos="422" width="20" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

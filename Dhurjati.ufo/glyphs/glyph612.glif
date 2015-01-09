@@ -445,39 +445,4 @@
       <point x="164" y="58"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-6" width="52" />
-      <hstem pos="64" width="34" />
-      <hstem pos="212" width="52" />
-      <hstem pos="212" width="26" />
-      <hstem pos="340" width="34" />
-      <hstem pos="354" width="25" />
-      <hstem pos="392" width="52" />
-      <hstem pos="508" width="51" />
-      <hstem pos="521" width="65" />
-      <vstem pos="0" width="106" />
-      <vstem pos="0" width="33" />
-      <vstem pos="142" width="103" />
-      <vstem pos="167" width="106" />
-      <vstem pos="275" width="22" />
-      <vstem pos="310" width="25" />
-      <vstem pos="412" width="106" />
-      <vstem pos="567" width="106" />
-      <vstem pos="683" width="26" />
-      <vstem pos="749" width="104" />
-      <vstem pos="917" width="26" />
-      <vstem pos="1019" width="106" />
-      <vstem pos="1175" width="106" />
-      <vstem pos="1290" width="26" />
-      <vstem pos="1356" width="105" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="482"/>
+  <advance width="395"/>
   <unicode hex="005C"/>
   <outline>
+    <contour>
+      <point x="4" y="547" type="line"/>
+      <point x="15" y="547" type="line"/>
+      <point x="391" y="97" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="4" y="450" type="line"/>
+    </contour>
   </outline>
 </glyph>

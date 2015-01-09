@@ -452,40 +452,4 @@
       <point x="186" y="-121" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-121" width="24" />
-      <hstem pos="-6" width="52" />
-      <hstem pos="64" width="31" />
-      <hstem pos="128" width="21" />
-      <hstem pos="199" width="13" />
-      <hstem pos="238" width="54" />
-      <hstem pos="328" width="12" />
-      <hstem pos="340" width="34" />
-      <hstem pos="392" width="52" />
-      <hstem pos="470" width="7" />
-      <hstem pos="508" width="13" />
-      <hstem pos="514" width="45" />
-      <vstem pos="0" width="106" />
-      <vstem pos="49" width="103" />
-      <vstem pos="152" width="26" />
-      <vstem pos="167" width="25" />
-      <vstem pos="206" width="106" />
-      <vstem pos="268" width="103" />
-      <vstem pos="310" width="24" />
-      <vstem pos="323" width="24" />
-      <vstem pos="334" width="33" />
-      <vstem pos="367" width="25" />
-      <vstem pos="412" width="106" />
-      <vstem pos="577" width="27" />
-      <vstem pos="680" width="106" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

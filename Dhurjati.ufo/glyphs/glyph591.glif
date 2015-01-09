@@ -293,34 +293,4 @@
       <point x="24" y="-306" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-443" width="40" />
-      <hstem pos="-367" width="53" />
-      <hstem pos="-314" width="24" />
-      <hstem pos="-284" width="46" />
-      <hstem pos="-225" width="53" />
-      <hstem pos="-91" width="20" />
-      <hstem pos="-52" width="21" />
-      <hstem pos="54" width="27" />
-      <vstem pos="-550" width="106" />
-      <vstem pos="-472" width="24" />
-      <vstem pos="-421" width="26" />
-      <vstem pos="-349" width="19" />
-      <vstem pos="-318" width="106" />
-      <vstem pos="-138" width="27" />
-      <vstem pos="-86" width="106" />
-      <vstem pos="-53" width="77" />
-      <vstem pos="54" width="27" />
-      <vstem pos="70" width="25" />
-      <vstem pos="114" width="78" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>
